@@ -18,7 +18,7 @@ This is a project on SBI Bank Management System which creates, modifies and dele
 
 ### LIST OF FUNCTIONS USED
 
-void create_account();		      //function to get data from user
+void create_account();		  \t    //function to get data from user
 
 void show_account();		        //function to show data on screen
 
@@ -34,7 +34,7 @@ int retacno();			            //function to return account number
 
 int retdeposit();			          //function to return balance amount
 
-char rettype();
+char rettype();                 //function to return type of account
 
 void write_account();		        //function to write record in binary file
 
