@@ -18,7 +18,7 @@ This is a project on SBI Bank Management System which creates, modifies and dele
 
 ### LIST OF FUNCTIONS USED
 
-void create_account();		  \t    //function to get data from user
+void create_account();		      //function to get data from user
 
 void show_account();		        //function to show data on screen
 
